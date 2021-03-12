@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Greb Group"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,5 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+We are a research group currently located at the Institute of Inorganic Chemistry at Heidelberg University were we are pursuing our interests in main group chemistry. The activation of elements of the p-block for interesting new chemistry and catalysis by strong ligand effects is at the heart of our research. Our experimental efforts are always supported using state-of-the-art computational methods to help us understand and predict new reactivity.
+
