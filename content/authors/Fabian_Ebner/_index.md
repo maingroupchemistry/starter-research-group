@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fabian Ebner, M. Sc.
+title: Dr. Fabian Ebner
 
 # Username (this should match the folder name)
 authors:
@@ -55,6 +55,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Postodocs
+ - Postdocs
 # - Visitors
 ---
