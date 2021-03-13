@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: "Calix[4]pyrrolato Aluminates: The Effect of Ligand Modification on the Reactivity of Square-Planar Aluminum Anions"
 authors:
-- admin
-- Robert Ford
+- Fabian Ebner
+- Philip Mainik
+- Dr. Lutz Greb
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -19,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Chem. Eur. J., early view"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Structural constraint represents an attractive tool to modify p‐block element properties without the need for unusual oxidation or valence states. The recently reported methyl‐calix[4]pyrrolato aluminate established the effect of forcing a tetrahedral aluminum anion into a square‐planar coordination mode. However, the generality of this structural motif and any consequence of ligand modification remained open. Herein, a systematic ligand screening was launched, and the class of square‐planar aluminum anions was extended by two derivatives that differ in the meso‐substitution at the calix[4]pyrrolato ligand. Strikingly, this modification provoked opposing trends in the preference for a Lewis acidic binding mode with σ‐donors versus the aluminum‐ligand cooperative binding mode with carbonyls. Insights into the origin of these counterintuitive experimental observations were provided by computation and bond analysis. Importantly, this rationale might allow to exploit mode‐selective binding for catalytic rate control.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202005493
 url_code: ''
 url_dataset: ''
 url_poster: ''
