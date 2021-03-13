@@ -4,7 +4,7 @@ advanced:
 widget: blank
 widget_id: Group-Image
 headless: true
-weight: 10
+weight: 30
 title: null
 subtitle: null
 active: true
