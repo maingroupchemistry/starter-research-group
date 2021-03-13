@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Phillip Erdmann, M. Sc.
+title: Philipp Erdmann, M. Sc.
 
 # Username (this should match the folder name)
 authors:
