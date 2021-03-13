@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Chem. Eur. J., early view"
+publication: "*Chem. Eur. J.*, early view"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
