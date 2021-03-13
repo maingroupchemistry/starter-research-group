@@ -7,7 +7,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "01-2021"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +24,7 @@ publication: "*Chem. Eur. J.*, early view"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -33,13 +33,13 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202005493
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202005493'
 url_video: ''
 
 # Featured image
