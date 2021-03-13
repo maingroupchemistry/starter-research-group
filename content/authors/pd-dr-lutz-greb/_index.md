@@ -1,6 +1,6 @@
 ---
 title: PD Dr. Lutz Greb
-role: Principal Investigator
+role: Principal Investigators
 avatar_filename: avatar.jpg
 social:
   - display:
