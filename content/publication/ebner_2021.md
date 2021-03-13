@@ -12,5 +12,5 @@ design:
   columns: "1"
 ---
 
- F. Ebner, P. Mainik, L. Greb
+ F. Ebner, P. Mainik, L. Greb </br>
  *Chem. Eur. J.*, early view
