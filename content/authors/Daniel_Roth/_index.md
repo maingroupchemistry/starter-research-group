@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel Roth  
+title: Daniel Roth, M. Sc.  
 
 # Username (this should match the folder name)
 authors:
